@@ -1,3 +1,54 @@
-.en_tete {
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+ }
 
+#wrapper{
+    padding :0 15%;
+    background-color: yellow;
+}
+
+.en_tete {
+    background-color: #3366ff;
+    color: white;
+    text-align: center;
+    font-size: 5em;
+}
+
+.img_famille {
+    text-align: justify;
+    width: 100%;
+
+}
+
+.menu {
+    background-color: #3366ff;
+    color: white;
+}
+
+article {
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    color: yellow;
+}
+
+.aside {
+    background-color: #3366ff;
+    color: white;
+}
+
+.matt {
+    width: 10%;
+    height: 10%;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
 }
