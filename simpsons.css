@@ -5,6 +5,10 @@
     vertical-align: top;
  }
 
+ main {
+    display: flex;
+ }
+ 
 #wrapper{
     padding :0 15%;
     background-color: yellow;
