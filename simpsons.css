@@ -1,109 +1,107 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    vertical-align: top;
- }
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  vertical-align: top;
+}
 
- main {
-    display: flex;
-    background-color: white;
- }
+main {
+  display: flex;
+  background-color: white;
+}
 
-#wrapper{
-    padding: 0% 10% 0% 10%;
-    background-color: #fdd116;
+#wrapper {
+  padding: 0% 10% 0% 10%;
+  background-color: #fdd116;
 }
 
 .en_tete {
-    background-color: #4c8dcd;
-    color: white;
-    text-align: center;
-    font-size: 3.3em;
-    font-weight: bold;
+  background-color: #4c8dcd;
+  color: white;
+  text-align: center;
+  font-size: 3.3em;
+  font-weight: bold;
 }
 
 .img_famille {
-    text-align: justify;
-    width: 100%;
-
+  text-align: justify;
+  width: 100%;
 }
 
 nav {
-    font-weight: bold;
-    padding: 1% 2%;
-    margin: 1%;
-    background-color: #4c8dcd;
-    color: white;
-    height: fit-content;
-    text-decoration: underline;
-    text-align: center;
+  font-weight: bold;
+  padding: 1% 2%;
+  margin: 1%;
+  background-color: #4c8dcd;
+  color: white;
+  height: fit-content;
+  text-decoration: underline;
+  text-align: center;
 }
 
 article {
-    text-align: justify;
-    background-color: white;
-    color: black;
-    padding: 2% 0%;
+  text-align: justify;
+  background-color: white;
+  color: black;
+  padding: 2% 0%;
 }
 
 h1 {
-    color: #FFDE00;
-    font-size: 2.5em;
-    font-weight: bold;
-    padding: 0% 0% 20px;
+  color: #ffde00;
+  font-size: 2.5em;
+  font-weight: bold;
+  padding: 0% 0% 20px;
 }
 
 aside {
-    margin: 2%;
-    background-color: #4c8dcd;
-    color: white;
-    /* padding: 20%; */
+  margin: 2%;
+  background-color: #4c8dcd;
+  color: white;
+  /* padding: 20%; */
 }
 
 aside {
-    min-width: 250px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px 0px;
+  min-width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0px;
 }
 
 aside img {
-    width: 100%;
-    border: white solid 3px;
+  width: 100%;
+  border: white solid 3px;
 }
 aside figure {
-    width: 80%;
+  width: 80%;
 }
 
 footer {
-    background-color: #29539d;
-    color: white;
-    text-align: center;
-    padding: 7px;
-    font-weight: bold;
-    font-size: 1.9em;
+  background-color: #29539d;
+  color: white;
+  text-align: center;
+  padding: 7px;
+  font-weight: bold;
+  font-size: 1.9em;
 }
 
 figcaption {
-    text-align: center;
-    margin: 1%;
-    font-weight: bold;
-    font-size: 1.5em;
-
+  text-align: center;
+  margin: 1%;
+  font-weight: bold;
+  font-size: 1.5em;
 }
 
 .p2 {
-    margin: 10%;
-    text-align: justify;
+  margin: 10%;
+  text-align: justify;
 }
 
 li {
-    color: #4c8dcd;
-    padding: 2px;
+  color: #4c8dcd;
+  padding: 2px;
 }
 
 a {
-    color: white;
+  color: white;
 }
